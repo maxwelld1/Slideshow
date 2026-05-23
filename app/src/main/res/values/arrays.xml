@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loading_images">
+        <item>@drawable/wallpaper_10</item>
+        <item>@drawable/wallpaper_14</item>
+        <item>@drawable/wallpaper_16</item>
+        <item>@drawable/wallpaper_17</item>
+        <item>@drawable/wallpaper_18</item>
+        <item>@drawable/wallpaper_19</item>
+        <item>@drawable/wallpaper_20</item>
+        <item>@drawable/wallpaper_5</item>
+        <item>@drawable/wallpaper_6</item>
+        <item>@drawable/wallpaper_8</item>
+    </array>
+</resources>
